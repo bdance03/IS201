@@ -1,0 +1,99 @@
+
+    .h2{
+        color: rgb(113, 75, 5);
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        font-size: larger;
+    }
+    .normal{
+        font-size: small;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-style: italic;
+        font-weight: normal;
+        text-align: left;
+
+    }
+    .italics{
+        color: black;
+        font-style: italic;
+        font-size: large;
+        text-align: center;
+        top: 50px;
+        height: 100px;
+        color: rgb(100, 87, 42);
+        border-bottom: solid 5px #6f520e;
+        padding-bottom: 30px;}
+
+    .h11{
+        color: rgb(131, 81, 0);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-align: center;
+        font-size: x-large;
+    }
+    h1{
+        color: rgb(153, 101, 6);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-align: center;}
+    h2 {
+        color: rgb(153, 101, 6);
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;}
+     .awesome{color: rgb(153, 101, 6);
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+        font-size: large;
+    }
+    
+    .text{
+        color: rgb(116, 63, 37);
+        font-style: oblique;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    .tophead{
+        border-top: 5px;
+
+    }
+    .header {
+    top: 50px;
+    height: 100px;
+    color: rgb(100, 87, 42);
+    border-bottom: solid 5px #6f520e;
+    padding-bottom: 30px;}
+    }
+    .header {
+    top: 50px;
+    height: 100px;
+    color: rgb(100, 87, 42);
+    border-bottom: solid 5px #6f520e;
+    padding-bottom: 30px;}
+
+    .header2 {
+    top: 50px;
+    height: 50px;
+    color: rgb(100, 87, 42);
+    border-bottom: solid 5px #6f520e;
+    padding-bottom: 30px;}
+
+    .center1{
+        text-align: center;
+    }
+
+.leftside{
+    text-align: left;
+    text-decoration: underline;
+    color: #6f520e;
+}
+.mainbody {
+    top: 114px;
+    right: 114px;
+    left: 114px;
+    bottom: 39px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 5px;}
+    .class1 {
+        font-size: large;
+        font-weight: bold;
+  
+    }
+    body{
+    background-color: rgb(253, 242, 200);}
